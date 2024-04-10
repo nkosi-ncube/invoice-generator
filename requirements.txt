@@ -1,6 +1,6 @@
 Babel==2.14.0
 chardet==5.2.0
-InvoiceGenerator==1.1.0
+InvoiceGenerator
 pillow==10.3.0
 pypng==0.20220715.0
 qrcode==7.4.2
